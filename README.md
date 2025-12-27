@@ -1,7 +1,17 @@
 # Portfolio page
 
 ## PTCG collector app (WiP/unpublished) (flutter/dart) 
-- App with powerful features to help users manage and track their Pokémon Trading Card Game collections.
+- App with many powerful features for users to manage and track their Pokémon Trading Card Game collections.
+
+Main features: 
+* Offline first
+* Collection completetion tracker
+* Search 
+* Virtual binders
+* Export lists to most common formats
+* Backup to json
+* And more
+
 #### Version timeline
 * v0.1 initial version 31/5-25
 * v0.2 basic card data base and viewer 26/6-25
@@ -11,14 +21,14 @@
 * v0.6 Major bugfix/refactoring/UX improvement and more 17/11-25
 * v0.7 (WiP) Ownership and completetion progress tracking
 
-Unreleased, closed source, recruiters may request read-access to code via email.
+Unreleased, closed source, recruiters may request access to code via email.
 
 ![Download Page](assets/download_page.png) ![Main menu](assets/main_menu.png) ![Owned tracker](assets/owned_tracker.png) ![Search page](assets/search.png)
 
-## PipeButReduxed (Python) 
+## PipeBotReduxed (Python) 
 - A chaotic Discord bot developed a few years back as a joke. 
 
-[PipeButReduxed GitHub repo](https://github.com/Jonas395/PipeBotReduxed)
+[PipeBotReduxed GitHub repo](https://github.com/Jonas395/PipeBotReduxed)
 
 
 ## File Manipulation scripts (Python)
@@ -28,7 +38,6 @@ Unreleased, closed source, recruiters may request read-access to code via email.
 
 ## Price match scripts (Python)
 - Scripts developed to help with generating links and manage an Excel sheet. 
-
 
 [Price match scripts GitHub repo](https://github.com/Jonas395/price-match-help-scripts)
 
