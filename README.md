@@ -9,8 +9,11 @@
 * v0.4 custom lists 23/9-25
 * v0.5 binders 26/10-25
 * v0.6 Major bugfix/refactoring/UX improvement and more 17/11-25
+* v0.7 (WiP) Ownership and completetion progress tracking
 
 Unreleased, closed source, recruiters may request read-access to code via email.
+
+![Download Page](assets/download_page.png) ![Main menu](assets/main_menu.png) ![Owned tracker](assets/owned_tracker.png) ![Search page](assets/search.png)
 
 ## PipeButReduxed (Python) 
 - A chaotic Discord bot developed a few years back as a joke. 
