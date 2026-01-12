@@ -19,7 +19,7 @@ Main features:
 * v0.4 custom lists 23/9-25
 * v0.5 binders 26/10-25
 * v0.6 Major bugfix/refactoring/UX improvement and more 17/11-25
-* v0.7 (WiP) Ownership and completetion progress tracking
+* v0.7 (WiP) Ownership and completion progress tracking
 
 Unreleased, closed source, recruiters may request access to code via email.
 
